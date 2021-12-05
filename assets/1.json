@@ -1,0 +1,19 @@
+{
+    "name": "Mark Zukerberg",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GaijMD8xuNdaZ6yxcWNe4pR9sj8ek7CdmGisUPqwsYFX",
+          "share": 100
+        }
+      ]
+    }
+  }

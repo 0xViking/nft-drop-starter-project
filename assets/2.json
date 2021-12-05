@@ -1,0 +1,19 @@
+{
+    "name": "Jack Dorsey",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GaijMD8xuNdaZ6yxcWNe4pR9sj8ek7CdmGisUPqwsYFX",
+          "share": 100
+        }
+      ]
+    }
+  }
