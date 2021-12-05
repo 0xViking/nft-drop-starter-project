@@ -1,4 +1,5 @@
 .machine-container {
+  color: rgb(0, 0, 0);
   display: flex;
   flex-direction: column;
 }
